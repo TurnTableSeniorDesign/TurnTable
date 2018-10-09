@@ -40,8 +40,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539294
-		objId: 486539294
+		id: q486539293
+		objId: 486539293
 		x: 1
 		y: 52
 		width: 159
@@ -73,9 +73,42 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539293
-		objId: 486539293
-		x: 161
+		id: q486539315
+		objId: 486539315
+		x: 172
+		y: 52
+		width: 159
+		height: 47
+		qm_FillRectWidth: 158
+		qm_FillRectHeight: 46
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 1
+		qm_BorderColor: "#ff9c9aa5"
+		qm_ImageID: 24
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 5
+		qm_TileLeft: 5
+		qm_FillColor: "#ffe7e3e7"
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 0
+		qm_MarginRight: 0
+		qm_MarginBottom: 0
+		qm_MarginTop: 0
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+		qm_FontSize: 16
+		qm_FontFamilyName: "Tahoma"
+		qm_FontBold: true
+	}
+	IGuiButton
+	{
+		id: q486539319
+		objId: 486539319
+		x: 347
 		y: 52
 		width: 159
 		height: 47

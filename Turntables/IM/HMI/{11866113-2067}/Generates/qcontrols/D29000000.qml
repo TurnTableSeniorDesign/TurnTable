@@ -37,8 +37,8 @@ IGuiDialogView
 	IGuiModality{ }
 	IGuiTextField
 	{
-		id: q268435466
-		objId: 268435466
+		id: q268435464
+		objId: 268435464
 		x: 92
 		y: 103
 		width: 100
@@ -101,8 +101,8 @@ IGuiDialogView
 	}
 	IGuiTextField
 	{
-		id: q268435467
-		objId: 268435467
+		id: q268435465
+		objId: 268435465
 		x: 92
 		y: 137
 		width: 100
@@ -165,8 +165,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539306
-		objId: 486539306
+		id: q486539304
+		objId: 486539304
 		x: 383
 		y: 195
 		width: 97
@@ -197,8 +197,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539307
-		objId: 486539307
+		id: q486539305
+		objId: 486539305
 		x: 287
 		y: 195
 		width: 97
@@ -229,8 +229,8 @@ IGuiDialogView
 	}
 	IGuiGraphicButton
 	{
-		id: q486539308
-		objId: 486539308
+		id: q486539306
+		objId: 486539306
 		x: 446
 		y: 0
 		width: 34

@@ -75,8 +75,8 @@ Item
 		IGuiModality{ }
 		IGuiGraphicButton
 		{
-			id: q486539297
-			objId: 486539297
+			id: q486539295
+			objId: 486539295
 			x: 666
 			y: 0
 			width: 34
@@ -108,7 +108,7 @@ Item
 			qm_LanguageIndex :1033
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539297,486539297)
+				proxy.initProxy(q486539295,486539295)
 			}
 		}
 		IGuiAlarmView
@@ -262,8 +262,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539298
-				objId: 486539298
+				id: q486539296
+				objId: 486539296
 				x: 2
 				y: 303
 				width: 56
@@ -295,13 +295,13 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539298,486539298)
+					proxy.initProxy(q486539296,486539296)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539299
-				objId: 486539299
+				id: q486539297
+				objId: 486539297
 				x: 640
 				y: 303
 				width: 56
@@ -333,7 +333,7 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539299,486539299)
+					proxy.initProxy(q486539297,486539297)
 				}
 			}
 			Component.onCompleted:
@@ -384,8 +384,8 @@ Item
 		IGuiModality{ }
 		IGuiGraphicButton
 		{
-			id: q486539300
-			objId: 486539300
+			id: q486539298
+			objId: 486539298
 			x: 666
 			y: 0
 			width: 34
@@ -417,7 +417,7 @@ Item
 			qm_LanguageIndex :1033
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539300,486539300)
+				proxy.initProxy(q486539298,486539298)
 			}
 		}
 		IGuiAlarmView
@@ -571,8 +571,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539301
-				objId: 486539301
+				id: q486539299
+				objId: 486539299
 				x: 2
 				y: 303
 				width: 56
@@ -604,13 +604,13 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539301,486539301)
+					proxy.initProxy(q486539299,486539299)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539302
-				objId: 486539302
+				id: q486539300
+				objId: 486539300
 				x: 640
 				y: 303
 				width: 56
@@ -642,7 +642,7 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539302,486539302)
+					proxy.initProxy(q486539300,486539300)
 				}
 			}
 			Component.onCompleted:
@@ -693,8 +693,8 @@ Item
 		IGuiModality{ }
 		IGuiGraphicButton
 		{
-			id: q486539303
-			objId: 486539303
+			id: q486539301
+			objId: 486539301
 			x: 666
 			y: 0
 			width: 34
@@ -726,7 +726,7 @@ Item
 			qm_LanguageIndex :1033
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539303,486539303)
+				proxy.initProxy(q486539301,486539301)
 			}
 		}
 		IGuiAlarmView
@@ -880,8 +880,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539304
-				objId: 486539304
+				id: q486539302
+				objId: 486539302
 				x: 2
 				y: 303
 				width: 56
@@ -913,13 +913,13 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539304,486539304)
+					proxy.initProxy(q486539302,486539302)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539305
-				objId: 486539305
+				id: q486539303
+				objId: 486539303
 				x: 640
 				y: 303
 				width: 56
@@ -951,7 +951,7 @@ Item
 				qm_LanguageIndex :1033
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539305,486539305)
+					proxy.initProxy(q486539303,486539303)
 				}
 			}
 			Component.onCompleted:
